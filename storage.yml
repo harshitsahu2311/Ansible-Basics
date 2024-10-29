@@ -1,0 +1,10 @@
+-
+  name: Show memory and ram
+  hosts: all
+  become: yes
+  tasks:
+    - name: Show memory
+      command: df -h
+
+    - name: Show RAM
+      command: free -h  

@@ -1,4 +1,5 @@
 # Ansible-Basics <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/> </a>
+![ansible](https://github.com/harshitsahu2311/Ansible-Basics/blob/main/ansible.jpg)
 
 # Installing Steps
 ```sh
